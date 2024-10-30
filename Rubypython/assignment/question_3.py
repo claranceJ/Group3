@@ -1,5 +1,4 @@
 #Write a function fibonacci(n) that generates a list containing the first n numbers in the Fibonacci sequence.
-from setuptools.dist import sequence
 
 #Fibonacci-Each number is equal to the sum of the preceding two numbers
 # Define a function named 'fibonacci_nums' that generates a list of Fibonacci numbers up to the nth value.
